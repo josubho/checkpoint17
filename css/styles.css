@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo {
+    height: 170px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;;
+}
+
+h2 {
+    text-decoration: underline;
+    margin-bottom: 50px;
+    font-size: xx-large;
+}
+
+.margin-top {
+    margin-top: 110px;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.thin {
+    font-weight: 100;
+    font-size: 0.8em;
+}
+
+.line {
+    border: 1px solid #0096bb;
+    margin: 120px 0px 40px 0px;
+}
+
+
+.one {
+    background-color: rgb(247, 83, 83);
+}
+
+.code {
+    font-style: italic;
+    color: #0096bb;
+}
+p {
+    margin-bottom: 20px;
+    text-align: justify;
+    font-size: 1.2em;
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+    margin-left: 18px;
+    font-size: 1.2em;
+}
